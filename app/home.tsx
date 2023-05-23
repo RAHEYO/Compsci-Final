@@ -11,7 +11,7 @@ type myHomeProps = {
 
 const MyHome: NextPage<myHomeProps> = () => {
     return (
-    <div className="w-screen h-screen">
+    <div className="w-screen h-screen bg-ciaBg">
         <div className="relative w-screen h-2/5 overflow-clip">
             <Image fill className="object-cover" src="/Eniac.png" alt="Eniac Computer" />
 

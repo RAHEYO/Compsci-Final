@@ -8,6 +8,9 @@ module.exports = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    colors: {
+      "ciaBg": "#161618"
+    },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
@@ -18,9 +21,6 @@ module.exports = {
         "sm": '0.5rem',
         "md": '1rem',
         "lg": '2.5rem'
-      },
-      color: {
-        "ciaBg": "#161618"
       }
     },
   },

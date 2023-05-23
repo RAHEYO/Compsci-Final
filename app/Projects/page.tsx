@@ -11,7 +11,7 @@ type pageProps = {
 
 const page: NextPage<pageProps> = () => {
     return (
-    <main className="p-14">
+    <main className="p-14 bg-ciaBg">
         <h1>FootLocker Mock!!! @_@</h1>
 
         <SizeBox className="h-15" />
