@@ -19,6 +19,9 @@ module.exports = {
         "md": '1rem',
         "lg": '2.5rem'
       },
+      color: {
+        "ciaBg": "#161618"
+      }
     },
   },
   plugins: [

@@ -11,7 +11,8 @@ const IMGS = {
     talkingWEngineers: "https://lh3.googleusercontent.com/pw/AJFCJaV-31dkEIs6ouvkjkad_UbqjTf9She48WsiLMme5kQDscs-Xx0zXJkpfOxGNFYUSUBHSup3JVUERcf24KS2BlMmk4WUY0LsufeZywjckNYKU3viSKP1GGzWaGNErPWdJjkLFvSvuP-U9ZQ8_7OqlwrJ=w1952-h1464-s-no?authuser=0",
     apExam: "https://assets.teenvogue.com/photos/5942ed72c821580654eccbf3/master/w_4168,h_2732,c_limit/ap-exam-error.jpg",
     apExamMeme: "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F001%2F373%2F587%2F02d.jpg",
-    heyGirlExam: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJXTjHvYj37nF9ebfHE2OW3-3tGBfls2cfluuulEhPoIQhlE8o1FD49UTBhXM182hjeI&usqp=CAU"
+    heyGirlExam: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJXTjHvYj37nF9ebfHE2OW3-3tGBfls2cfluuulEhPoIQhlE8o1FD49UTBhXM182hjeI&usqp=CAU",
+    UML: "/UML.png"
 }
 
 export default IMGS;
