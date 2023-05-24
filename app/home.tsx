@@ -11,14 +11,14 @@ type myHomeProps = {
 
 const MyHome: NextPage<myHomeProps> = () => {
     return (
-    <div className="w-screen h-screen bg-ciaBg">
+    <div className="w-screen h-screen bg-white">
         <div className="relative w-screen h-2/5 overflow-clip">
             <Image fill className="object-cover" src="/Eniac.png" alt="Eniac Computer" />
 
-            <h1 className="absolute text-zinc-200 w-full text-center top-1/2">Ryan Wang&apos;s Amazing Year @ C106</h1>
+            <h1 className="absolute text-black w-full text-center top-1/2">Ryan Wang&apos;s Amazing Year @ C106</h1>
         </div>
 
-        <main className="p-lg bg-ciaBg">
+        <main className="p-lg bg-white">
             <Link href="https://www.linkedin.com/in/haoyu-wang-460999206/">
                 <h1 className='text-zinc-200 underline'>Ryan&apos;s Profile with Memories! (Click here to LinkedIn)</h1>
             </Link>
