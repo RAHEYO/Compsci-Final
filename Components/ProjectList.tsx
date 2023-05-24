@@ -7,7 +7,7 @@ import SizeBox from '@/Components/SizeBox';
 const ProjectList: FC = (): JSX.Element => {
     return (
     <>
-        <h1>Project</h1>
+        <h1 className='text-zinc-200'>Project</h1>
                 
             <SizeBox className="h-5" />
 
@@ -20,7 +20,7 @@ const ProjectList: FC = (): JSX.Element => {
                     <SizeBox className="w-14" />
                     
                     <div>
-                        <h2>FootLocker Mock</h2>
+                        <h2 className='text-zinc-200'>FootLocker Mock</h2>
                         <SizeBox className="h-3" />
                         <p className="text-zinc-400">
                             A Java program that models how FootLocker categorizes shoes by their brand~
